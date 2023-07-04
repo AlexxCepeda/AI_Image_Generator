@@ -41,7 +41,7 @@ export default {
       prompt: "",
       showError: false,
       isLoading: false,
-      rapidApiKey: process.env.VUE_APP_RAPID_API_GENERATOR_KEY,
+      rapidApiKey: meta.env.VUE_APP_RAPID_API_GENERATOR_KEY,
     };
   },
   methods: {
