@@ -1,4 +1,6 @@
-# ai-image-generator
+# AI Image Generator
+
+An AI Image Generator made with Vue
 
 ## Project setup
 ```
