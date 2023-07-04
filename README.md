@@ -2,6 +2,8 @@
 
 An AI Image Generator made with Vue
 
+Try it: https://ai-image-generator-ceptron.netlify.app/
+
 ## Project setup
 ```
 npm install
