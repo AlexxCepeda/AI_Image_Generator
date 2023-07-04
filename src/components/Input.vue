@@ -51,7 +51,8 @@ export default {
         url: "https://ai-image-generator3.p.rapidapi.com/generate",
         headers: {
           "content-type": "application/json",
-          "X-RapidAPI-Key": this.rapidApiKey,
+          "X-RapidAPI-Key":
+            "8be4bcdbf9mshe88eb7f2b048bb2p192501jsn0d194524ba72",
           "X-RapidAPI-Host": "ai-image-generator3.p.rapidapi.com",
         },
         data: {
